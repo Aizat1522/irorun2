@@ -1,0 +1,1393 @@
+@media (max-width: 1440px) {
+    .container{
+        width: 90%;
+    }
+}
+@media (max-width: 1200px) {
+
+    .header-a a{
+        font-size: 9px;
+    }
+    .hero-logo h1 {
+        width: 617px;
+        font-size: 40px;
+    }
+    .hero-logo p {
+        padding: 48px 0 0 78px;
+    }
+    .input-header input{
+        padding: 14px 52px;
+    }
+    .hero-logo h1{
+        width: 538px;
+        font-size: 42px;
+    }
+    .hero-img-two{
+        padding-left: 778px;
+    }
+    .hero-img-three{
+        right: 229px
+    }
+    .hero-img-one{
+        bottom: -57px;
+    }
+    .hero-img-fife {
+        bottom: 215px;
+    }
+    .hero-img-four{
+        bottom: 178px
+    }
+    .hero-logo-ion h2{
+        font-size: 35px;
+    }
+    .hero-logo-ion h5{
+        font-size: 18px;
+    }
+    .hero-logo-btn button{
+        font-size: 12px;
+    }
+    #sell{
+        left: -2%;
+        margin: 1px 30px;
+    }
+    .sell-text h1{
+        left: 45%;
+    }
+    .sell-yellow {
+        padding: 10px 47px;
+    }
+    .sell-text p{
+        width: 50%;
+    }
+    .product-block{
+        padding: 10px 0;
+    }
+    .product-img ion-icon{
+        margin: 15px 133px -74px -153px;
+    }
+    .blog-three {
+        width: 289px;
+    }
+    .blog-three img {
+        margin-left: 121px;
+    }
+    .line {
+        width: 1070px;
+    }
+
+}
+@media (max-width: 1024px) {
+    .hero-logo h1 {
+        width: 563px;
+        font-size: 38px;
+    }
+    .hero-img-one {
+        width: 38%;
+    }
+    .hero-logo p {
+        width: 468px;
+        font-size: 15px;
+        padding: 12px 0 0 78px;
+    }
+    .hero-logo-ion h2 {
+        font-size: 29px;
+    }
+    .hero-logo-ion h5 {
+        font-size: 19px;
+    }
+    .hero-logo-btn button {
+        padding: 13px 27px;
+    }
+    .hero-logo-btn div button {
+        padding: 12px 24px;
+        font-size: 14px;
+    }
+    .hero-img-two {
+        padding-left: 621px;
+        padding-bottom: 0;
+    }
+    .input-header input {
+        padding: 15px 50px;
+        margin: 0 15px;
+        font-size: 10px;
+    }
+    .header-a a {
+        margin: 10px;
+        font-size: 10px;
+    }
+    .sell-green {
+        padding-left: 540px;
+    }
+    .sell-rrr{
+        padding: 22px 1px;
+    }
+    .sell-text p {
+        width: 63%;
+    }
+    .product-btn button{
+        padding: 11px 12px;
+        margin: 5px;
+        font-size: 13px;
+    }
+    .product-img img {
+        margin-left: 40px;
+        width: 175px;
+    }
+    .product-one {
+        width: 284px;
+        height: 438px;
+    }
+    .product-1 h1 {
+        width: 202px;
+        font-size: 16px;
+    }
+    .product-1 div h2 {
+        font-size: 24px;
+    }
+    .product-img ion-icon {
+        margin: 9px 102px -78px -223px;
+    }
+    .product-1 div ion-icon {
+        font-size: 26px;
+    }
+    .product-one {
+        width: 284px;
+        height: 438px;
+    }
+    .product-one2 {
+        width: 284px;
+        height: 438px;
+    }
+    .product-one3 {
+        width: 284px;
+        height: 438px;
+    }
+    .product-one4 {
+        width: 284px;
+        height: 438px;
+    }
+    .product-one5 {
+        width: 284px;
+        height: 438px;
+    }
+    .product-one6 {
+        width: 284px;
+        height: 438px;
+    }
+    .blog-title{
+        padding: 100px 0 45px 0;
+    }
+    .blog-img{
+        padding-left: 100px;
+    }
+    .blog-three {
+        margin: 5px;
+        width: 242px;
+    }
+    .blog-img p {
+        width: 315px;
+        font-size: 15px;
+    }
+    .blog-block div img {
+        width: 214px;
+        padding-top: 44px;
+        padding-right: 70px;
+    }
+    .blog-img h1 {
+        width: 285px;
+    }
+    .blog-three-one h1 {
+        width: 231px;
+        font-size: 19px;
+    }
+    .blog-three img {
+        width: 175px;
+        margin-left: 95px;
+        height: 128px;
+    }
+    .helps-title h1 {
+        width: 439px;
+        font-size: 30px;
+    }
+    .helps-img-one {
+        width: 433px;
+    }
+    .helps-title p {
+        width: 490px;
+        font-size: 15px;
+    }
+    .helps-img-four {
+        width: 365px;
+        height: 359px;
+    }
+    .helps-img-two {
+        left: 322px;
+        width: 129px;
+        height: 123px;
+    }
+    .helps-img-three {
+        left: 362px;
+        top: -20px;
+    }
+    .helps-img-six{
+        left: -15px;
+        top: 18%;
+    }
+    .line {
+        width: 921px;
+    }
+    .clients-block {
+        width: 409px;
+    }
+    .clients-one div h1 {
+        padding-right: 90px;
+    }
+}
+@media (max-width: 992px) {
+    .header-a a {
+        margin: 15px;
+    }
+    .hero-img-two {
+        padding-left: 591px;
+    }
+    .hero-logo h1 {
+        width: 505px;
+        font-size: 35px;
+    }
+    .hero-img-one {
+        width: 345px;
+    }
+    .clients-block {
+        width: 427px;
+    }
+    .sell-yellow{
+        padding: 0 38px;
+    }
+    .helps-img-four {
+        width: 363px;
+        height: 353px;
+    }
+    .helps-img-one{
+        width: 426px;
+    }
+    .helps-img-two {
+        left: 332px;
+        top: 9%;
+    }
+    .blog-three{
+        width: 229px;
+    }
+    .blog-three img{
+        margin-left: 83px;
+    }
+
+}
+@media (max-width: 851px) {
+    .hamburger-menu{
+        display: block;
+    }
+    .block-header{
+        display: none;
+    }
+    .header {
+        justify-content: start;
+    }
+    .header-icon{
+         padding-left: 75%;
+     }
+    .header-icon {
+        padding-bottom: 20px;
+    }
+    .hero-logo h1 {
+        width: 463px;
+        font-size: 31px;
+    }
+    .hero-logo p {
+        width: 410px;
+        font-size: 15px;
+    }
+    .hero-img-one {
+        width: 310px;
+    }
+    .hero-img-two {
+        width: 276px;
+    }
+
+    .hero-logo h1 {
+        width: 395px;
+        font-size: 25px;
+    }
+    .hero-logo p {
+        width: 375px;
+        font-size: 14px;
+    }
+    .hero-img-fife {
+        bottom: 175px;
+    }
+    .hero-img-four {
+        right: 169px;
+        width: 121px;
+    }
+    .hero-img-three {
+        right: 212px;
+    }
+    .hero-logo-btn button {
+        padding: 14px 19px;
+    }
+    .sell-text p {
+        font-size: 15px;
+        width: 52%;
+    }
+    .sell-green {
+        padding-left: 394px;
+    }
+    .sell-text h1 {
+        font-size: 21px;
+        padding: 26px 0;
+    }
+    .sell-one{
+        margin: 10px 0 0 0;
+    }
+    .product-title h1 {
+        font-size: 32px;
+    }
+    .product-title button {
+        font-size: 14px;
+        padding: 13px 22px;
+    }
+    .product-one3 {
+        margin-top: 58px;
+    }
+    .blog-two {
+        width: 295px;
+        height: 538px;
+        margin-bottom: 57px;
+    }
+    .blog-two-one h1 {
+        width: 281px;
+        font-size: 20px;
+    }
+    .blog-two-one p {
+        width: 265px;
+        font-size: 13px;
+    }
+    .label label {
+        /*padding: 9px 10px;*/
+        margin: 2px;
+        padding: 7px 4px;
+    }
+    .blog-img h5{
+        padding-top: 20px;
+    }
+    .blog-img button{
+        margin-bottom: 13px;
+    }
+    .blog-img h1 {
+        width: 242px;
+        height: 43px;
+        font-size: 18px;
+        margin: 24px 0;
+    }
+    .blog-img p {
+        width: 219px;
+        font-size: 12px;
+    }
+    .blog-block div img {
+        padding-top: 62px;
+        width: 186px;
+        padding-right: 20px;
+    }
+    .blog-img {
+        padding-left: 17px;
+        width: 224px;
+    }
+    .blog-block {
+        width: 92%;
+    }
+    .blog-three img {
+        padding-top: 0;
+        width: 137px;
+        margin-left: 43px;
+        height: 93px;
+    }
+    .blog-three-one h1 {
+        width: 141px;
+        font-size: 14px;
+    }
+    .copy-block {
+        display: flex;
+        width: 100%;
+        justify-content: start;
+    }
+    .blog-three {
+        width: 160px;
+        height: 245px;
+        margin: 0 0 60px 10px;
+    }
+    .blog-three img {
+        width: 138px;
+        margin-left: 52px;
+        padding-top: 0;
+    }
+    .clients-block {
+        width: 343px;
+    }
+    .clients-star p {
+        width: 323px;
+        font-size: 15px;
+        padding: 12px 0 0 0;
+    }
+    .clients-one {
+        padding: 0 0 16px 0;
+    }
+    .clients-one div h1 {
+        font-size: 18px;
+        padding-right: 112px;
+    }
+    .helps-title h1 {
+        width: 399px;
+        font-size: 25px;
+    }
+    .helps-title p {
+        width: 419px;
+        font-size: 13px;
+    }
+    .helps-img-four {
+        width: 319px;
+        height: 311px;
+        left: 18px;
+        top: 22%;
+    }
+    .helps-img-one {
+        width: 358px;
+        padding-top: 72px;
+    }
+    .helps-img-two {
+        left: 279px;
+        top: 27%;
+        width: 118px;
+    }
+    .helps-img-three {
+        left: 303px;
+        top: 75px;
+    }
+    .helps-img-six {
+        left: -29px;
+        top: 23%;
+    }
+    .footer-one {
+        padding: 29px 19px;
+    }
+    .line {
+        width: 743px;
+    }
+    .footer-two p {
+        padding-right: 26px;
+    }
+    .footer-one img{
+        padding: 20px;
+    }
+}
+@media (max-width: 768px) {
+    .hero {
+        padding: 60px 0 45px 0;
+    }
+    .hero-img-one {
+        width: 277px;
+    }
+    .hero-img-fife {
+        bottom: 163px;
+        width: 103px;
+    }
+    .hero-img-four {
+        right: 152px;
+        width: 111px;
+        bottom: 147px;
+    }
+    .hero-img-two {
+        width: 246px;
+        bottom: -44px;
+    }
+    .hero-logo h1 {
+        height: 81px;
+    }
+    .hero-img-three {
+        width: 126px;
+        right: 183px;
+        bottom: -60px;
+    }
+    .sell-green {
+        padding-left: 326px;
+    }
+    .sell-text h1 {
+        font-size: 19px;
+    }
+    .clients-block {
+        width: 350px;
+    }
+    .clients-star p {
+        width: 274px;
+        font-size: 11px;
+        padding: 13px 0 0 35px;
+    }
+    .clients-one div h1 {
+        font-size: 14px;
+        padding-right: 83px;
+    }
+    .clients-one div h1 {
+        font-size: 14px;
+        padding-right: 83px;
+    }
+    .helps-title p {
+        width: 371px;
+        font-size: 12px;
+    }
+    .helps {
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+    }
+    .helps-title h1 {
+        width: 484px;
+        font-size: 33px;
+    }
+    .helps-title p {
+        width: 506px;
+        font-size: 18px;
+    }
+    .helps-img-one {
+        width: 418px;
+        padding-top: 68px;
+    }
+    .helps-img-four {
+        width: 373px;
+        height: 368px;
+        left: 23px;
+        top: 19%;
+    }
+    .helps-img-two {
+        left: 297px;
+        top: 22%;
+        width: 207px;
+    }
+    .helps-img-three {
+        width: 65px;
+        height: 61px;
+    }
+    .helps-img-six {
+        left: -16px;
+        top: 31%;
+    }
+    .helps-img-fife {
+        left: -34px;
+        top: 81%;
+    }
+    .footer-one img {
+        padding: 15px;
+        width: 90px;
+    }
+    .footer-one h4 {
+        font-weight: 400;
+        font-size: 12px;
+    }
+    .line {
+        width: 676px;
+    }
+    .copy-block {
+        display: flex;
+        width: 102%;
+    }
+}
+@media (max-width: 576px) {
+    .hero {
+        padding: 35px 0 45px 0;
+    }
+
+    .header-icon {
+        padding-left: 60%;
+    }
+
+    .header-icon ion-icon {
+        font-size: 27px;
+    }
+
+    .hero-img-two {
+        width: 195px;
+    }
+
+    .hero-img-one {
+        width: 230px;
+    }
+
+    .hero-logo p {
+        width: 290px;
+        font-size: 11px;
+        padding: 0 0 0 25px;
+    }
+
+    .hero-logo h1 {
+        width: 315px;
+        font-size: 23px;
+        padding: 0 0 0 25px;
+    }
+
+    .hero-img-fife {
+        bottom: 121px;
+        width: 87px;
+    }
+
+    .hero-img-four {
+        right: 133px;
+        width: 80px;
+        bottom: 110px;
+    }
+
+    .hero-logo-ion {
+        padding: 0 0 0 22px;
+    }
+
+    .hero-logo-ion h2 {
+        font-size: 23px;
+    }
+
+    .hero-logo-btn {
+        padding: 25px 0 0 25px;
+    }
+
+    .hero-logo-btn button {
+        padding: 10px 13px;
+    }
+
+    .hero-logo-btn div button {
+        padding: 10px 13px;
+        font-size: 14px;
+    }
+
+    .hero-img-three {
+        width: 111px;
+        right: 148px;
+    }
+
+    .sell-one-img {
+        width: 58px;
+    }
+
+    .sell-three-img {
+        width: 40px;
+        padding-left: 68px;
+    }
+
+    .sell-two-img {
+        width: 39px;
+    }
+
+    .sell-text h1 {
+        font-size: 16px;
+        padding: 13px 0;
+        left: 35%;
+        width: 35%;
+    }
+
+    .sell-text p {
+        top: 41px;
+        font-size: 14px;
+        width: 50%;
+    }
+
+    .sell-one-img {
+        width: 48px;
+        padding-left: 26px;
+    }
+
+    .sell-three-img {
+        width: 35px;
+    }
+
+    .sell-four-img {
+        width: 15px;
+    }
+
+    .sell-yellow {
+        padding: 0 14px;
+    }
+
+    #sell {
+        margin: 4px -14px;
+    }
+
+    .sell-rrr {
+        padding: 12px 1px;
+    }
+
+    .sell-ttt {
+        padding: 0 0;
+    }
+
+    .sell-green {
+        padding-left: 200px;
+    }
+
+    .product-title h1 {
+        font-size: 27px;
+    }
+
+    .product-title button {
+        font-size: 12px;
+    }
+
+    .label {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .product-one2 {
+        margin-top: 21px;
+    }
+
+    .product-one3 {
+        margin-top: 25px;
+    }
+
+    .product-one5 {
+        margin-top: 22px;
+    }
+
+    .product-one6 {
+        margin-top: 22px;
+    }
+
+    .blog-title {
+        padding: 85px 0 41px 0;
+    }
+
+    .blog-title h1 {
+        font-size: 37px;
+    }
+
+    .blog-title button {
+        font-size: 14px;
+        padding: 16px 17px;
+        margin-right: 36px;
+    }
+
+    .blog {
+        margin: 0 0 450px 0;
+    }
+
+    .blog-two {
+        top: 557px;
+        right: 182px;
+    }
+
+    .blog-blocks {
+        padding-left: 105px;
+    }
+    .blog-img {
+        padding-left: 44px;
+        width: 215px;
+    }
+    .blog-block {
+        width: 156%;
+        margin-left: 177px;
+    }
+    .clients-title {
+        font-size: 31px;
+        padding: 131px 0 27px 0;
+    }
+    .clients-star p {
+        width: 173px;
+        font-size: 9px;
+        padding: 0 0 0 8px;
+        line-height: 22px;
+    }
+    .swiper-slide img {
+        width: 50px;
+    }
+    .clients-one div h1 {
+        font-size: 9px;
+        padding-right: 48px;
+    }
+    .clients-one div p {
+        font-weight: 400;
+        font-size: 9px;
+    }
+    .clients-block {
+        width: 220px;
+        height: 252px;
+    }
+    .clients-star ion-icon{
+        font-size: 20px;
+        margin: 0 0 0 10px;
+    }
+    .helps-title h1 {
+        width: 441px;
+        font-size: 25px;
+        padding-left: 70px;
+    }
+    .helps-title p {
+        width: 400px;
+        font-size: 13px;
+        padding-left: 64px;
+    }
+    .helps-img-four {
+        width: 329px;
+        height: 321px;
+        left: 24px;
+        top: 10%;
+    }
+    .helps-img-one {
+        width: 373px;
+        padding-top: 15px;
+    }
+    .helps-img-two {
+        width: 136px;
+    }
+    .helps-img-six {
+        left: -36px;
+        top: 18%;
+    }
+    .helps-img-three {
+        left: 309px;
+        top: 17px;
+    }
+    .helps-img-fife {
+        left: -2px;
+        top: 76%;
+        width: 87px;
+        height: 87px;
+    }
+    .helps{
+        padding: 37px 0;
+    }
+    .line {
+        width: 499px;
+        margin: 0 0 21px 0;
+    }
+    .footer-one img {
+        width: 71px;
+    }
+    .footer-one h4 {
+        font-size: 8px;
+    }
+    .footer-two p{
+        font-size: 13px;
+    }
+    .footer-two ion-icon {
+        font-size: 18px;
+    }
+    .footer-one{
+        padding: 12px 19px;
+    }
+}
+@media (max-width: 426px) {
+    .header-icon {
+        padding-left: 44%;
+    }
+    .hero-logo p {
+        margin-top: 215px;
+        width: 290px;
+        font-size: 13px;
+        padding: 0 0 0 45px;
+    }
+    .hero-logo h1 {
+        padding: 35px 0 0 25px;
+    }
+    .hero-img-one {
+        width: 204px;
+        bottom: 140px;
+        right: 115px;
+    }
+    .hero-logo-ion ion-icon {
+        position: absolute;
+        bottom: 381px;
+    }
+    .hero-img-two {
+        bottom: 484px;
+        right: -94px;
+        transform: rotate(90deg);
+    }
+    .hero-img-fife {
+        bottom: 273px;
+        width: 65px;
+        right: 20px;
+    }
+    .hero-img-four {
+        right: 44px;
+        width: 65px;
+        bottom: 223px;
+    }
+    .hero-img-three {
+        width: 98px;
+        right: 77px;
+        bottom: 290px;
+    }
+    .hero-logo-ion {
+        position: relative;
+    }
+    .hero-logo-ion h2 {
+        font-size: 23px;
+        position: absolute;
+        top: -408px;
+        left: 65px;
+    }
+    .hero-logo-ion h5 {
+        font-size: 19px;
+        position: absolute;
+        top: -406px;
+        left: 154px;
+    }
+    .hero-logo-btn {
+        padding: 14px 0 0 72px;
+    }
+    .hero-logo-btn button {
+        padding: 13px 13px;
+    }
+    .sell-one-img {
+        width: 36px;
+        padding-left: 16px;
+    }
+    .sell-text p {
+        top: 37px;
+        font-size: 14px;
+        width: 58%;
+    }
+    .sell-three-img {
+        display: none;
+    }
+    .product-title h1 {
+        font-size: 25px;
+    }
+    .product-title button {
+        font-size: 12px;
+        padding: 10px 15px;
+    }
+    .product-title{
+        padding: 58px 22px 50px 12px;
+    }
+    .blog-block div img {
+        width: 166px;
+        padding-right: 0;
+        padding-top: 137px;
+    }
+    .blog-block {
+        height: 309px;
+        width: 160%;
+        margin-left: 177px;
+        margin-bottom: 20px;
+    }
+    .blog-img {
+        padding-left: 10px;
+        width: 109px;
+        padding-bottom: 100px;
+    }
+    .blog-img h5 {
+        padding-left: 15px;
+        padding-top: 50px;
+    }
+    .copy-block {
+        flex-wrap: wrap;
+    }
+    .blog-three {
+        width: 193px;
+        height: 245px;
+        margin: 0    0 60px 56px;
+    }
+    .blog-two {
+        margin-bottom: -456px;
+        margin-left: 31px;
+        height: 438px;
+    }
+    .blog-three {
+        margin: 0 0 21px 56px;
+    }
+    .blog-three img {
+        margin-left: 85px;
+    }
+    .blog-two img {
+        bottom: 0;
+        right: 40px;
+        width: 224px;
+    }
+
+    .clients-title {
+        padding: 362px 0 27px 0;
+        font-size: 26px;
+    }
+    .clients-block {
+        width: 157px;
+        height: 193px;
+    }
+    .swiper-slide img {
+        width: 30px;
+    }
+    .clients-one div h1 {
+        font-size: 7px;
+        padding-right: 34px;
+    }
+    .clients-star p {
+        width: 124px;
+        font-size: 7px;
+        padding: 0 0 0 8px;
+        line-height: 15px;
+    }
+    .clients-star ion-icon {
+        font-size: 12px;
+        margin: 0 0 0 4px;
+    }
+    .helps-title h1 {
+        width: 290px;
+        font-size: 19px;
+        padding-left: 35px;
+        line-height: 35px;
+    }
+    .helps-title p {
+        width: 307px;
+        font-size: 9px;
+        padding-left: 40px;
+        line-height: 20px;
+    }
+    .helps-img-four {
+        width: 245px;
+        height: 236px;
+        left: 10px;
+        top: 9%;
+    }
+
+    .helps-img-one {
+        width: 266px;
+        padding-top: 10px;
+    }
+    .helps-img-three {
+        left: 200px;
+        top: -17px;
+    }
+    .helps-img-two {
+        width: 96px;
+        height: 90px;
+        left: 210px;
+        top: 15%;
+    }
+    .helps-img-six {
+        left: -21px;
+        width: 65px;
+        height: 57px;
+    }
+    .helps-img-fife {
+        width: 65px;
+        height: 65px;
+    }
+    .line {
+        display: none;
+    }
+    .footer-one div {
+        display: none;
+    }
+    .footer-one img {
+        width: 55px;
+        display: none;
+    }
+
+}
+@media (max-width: 400px) {
+    .hero-img-two {
+        width: 174px;
+    }
+    .sell-yellow {
+        padding: 0 0;
+    }
+    .blog-block div img {
+        width: 158px;
+        padding-right: -1px;
+        padding-top: 150px;
+    }
+    .blog-img {
+        width: 93px;
+    }
+    .blog-img h5{
+        font-size: 10px;
+    }
+
+}
+@media (max-width: 376px) {
+    .header-icon {
+        padding-left: 36%;
+    }
+    .hero-logo-ion h2 {
+        top: -227px;
+    }
+    .hero-logo-ion h5{
+        top: -225px;
+    }
+    .hero-logo-ion ion-icon {
+        bottom: 203px;
+    }
+    .hero-logo h1 {
+        padding: 109px 0 0 25px;
+    }
+    .hero-img-one {
+        width: 210px;
+        bottom: 293px;
+        right: 81px;
+    }
+    .hero-img-two {
+        bottom: 442px;
+        right: -430px;
+        transform: rotate(179deg);
+    }
+    .hero-img-fife {
+        bottom: 423px;
+        width: 50px;
+        right: 22px;
+    }
+    .hero-img-four {
+        right: 38px;
+        width: 65px;
+        bottom: 400px;
+    }
+    .hero-img-three {
+        width: 72px;
+        right: 47px;
+        bottom: 464px;
+    }
+    .hero-logo p {
+        margin-top: -25px;
+        padding: 0 0 0 24px;
+        width: 275px;
+    }
+    .hero-logo h1 {
+        padding: 273px 0 0 25px;
+    }
+    .hero-img-one {
+        width: 199px;
+        bottom: 299px;
+        right: 90px;
+    }
+    .hero-img-two {
+        width: 225px;
+        bottom: 374px;
+        right: -479px;
+        transform: rotate(179deg);
+    }
+    .hero-logo h1 {
+        width: 312px;
+        padding-bottom: 50px;
+    }
+    .hero-logo-btn {
+        padding: 14px 0 0 26px;
+    }
+    .sell-two-img {
+        width: 26px;
+    }
+    .product-one {
+        width: 247px;
+        height: 381px;
+    }
+    .product-img img {
+        margin-left: 12px;
+        width: 160px;
+    }
+    .product-icon ion-icon {
+        padding: 7px;
+        font-size: 19px;
+    }
+    .product-ion ion-icon {
+        font-size: 17px;
+        padding: 26px 0 0 0;
+        color: #ffbb00;
+    }
+    .product-ion p {
+        padding: 22px 0 0 15px;
+        font-size: 14px;
+    }
+    .product-1 div h2 {
+        font-size: 22px;
+    }
+    .product-1 div ion-icon {
+        font-size: 19px;
+    }
+    .product-one2 {
+        width: 248px;
+        height: 379px;
+    }
+    .product-one3 {
+        width: 248px;
+        height: 375px;
+    }
+    .product-one4 {
+        width: 255px;
+        height: 375px;
+    }
+    .product-one5 {
+        width: 257px;
+        height: 375px;
+    }
+    .product-one6 {
+        width: 255px;
+        height: 375px;
+    }
+    .blog-title h1 {
+        font-size: 23px;
+    }
+    .blog-title button {
+        font-size: 12px;
+        padding: 12px 12px;
+        margin-right: 39px;
+    }
+    .blog-img {
+        width: 67px;
+        padding-left: 8px;
+    }
+    .blog-block {
+        margin-left: 265px;
+    }
+    .blog-two {
+        margin-left: 87px;
+    }
+    .blog-three {
+        margin: 0 0 21px 87px;
+    }
+    .blog-img h5 {
+        font-size: 13px;
+        width: 100px;
+        padding-top: 67px;
+    }
+    .clients-block {
+        width: 130px;
+        height: 174px;
+    }
+    .swiper-slide img {
+        width: 20px;
+        margin-top: -15px;
+    }
+    .clients-one div h1 {
+        font-size: 6px;
+        padding-right: 27px;
+        margin-top: -19px;
+    }
+    .clients-star ion-icon {
+        font-size: 9px;
+        /*margin: 0px 0 0 -1px;*/
+    }
+    .clients-star p {
+        width: 93px;
+        font-size: 6px;
+        padding: 0 0 0 0;
+    }
+    .helps-title h1 {
+        width: 177px;
+        font-size: 17px;
+        padding-left: 0;
+    }
+    .helps-title p {
+        width: 223px;
+        font-size: 8px;
+        padding-left: 0;
+        line-height: 13px;
+    }
+    .footer-one{
+        flex-wrap: wrap;
+        padding: 21px 1px;
+    }
+
+}
+@media (max-width: 320px) {
+    .header-icon {
+        padding-left: 25%;
+    }
+    .header-icon ion-icon {
+        font-size: 23px;
+    }
+    .header img{
+        width: 75px;
+    }
+    .header{
+        padding: 13px;
+    }
+    .hero-img-one {
+        right: 64px;
+    }
+    .hero-img-two {
+        width: 196px;
+        bottom: 397px;
+        right: -500px;
+    }
+    .hero-logo h1 {
+        width: 275px;
+        font-size: 21px;
+    }
+    .hero-logo p {
+        width: 243px;
+    }
+    .sell-text p {
+        top: 33px;
+        font-size: 10px;
+        width: 59%;
+    }
+    .sell-one-img {
+        width: 20px;
+        padding-left: 5px;
+    }
+    .product-title h1 {
+        font-size: 20px;
+    }
+    .product-title button {
+        font-size: 9px;
+        padding: 10px 10px;
+    }
+    .product-title {
+        padding: 34px 22px 19px 12px;
+    }
+    .label label {
+        margin: 2px;
+        padding: 3px 2px;
+    }
+    .blog-blocks {
+        padding-left: 81px;
+    }
+    .blog-block div img {
+        width: 133px;
+        padding-top: 175px;
+    }
+    .blog-img p{
+        width: 177px;
+        font-size: 10px;
+    }
+    .blog-two {
+        width: 255px;
+        margin-left: 123px;
+    }
+    .blog-two-one h1 {
+        width: 200px;
+        font-size: 18px;
+    }
+    .blog-two-one p {
+        width: 235px;
+        font-size: 13px;
+        /*margin-left: 121px;*/
+        margin-left: -2px;
+    }
+    .blog-two img {
+        right: 9px;
+    }
+    .clients-block {
+        width: 110px;
+    }
+    .clients-one div h1 {
+        padding-right: 17px;
+    }
+    .clients-star p {
+        width: 77px;
+        font-size: 5px;
+    }
+    .footer-one {
+        flex-direction: column;
+        line-height: 24px;
+    }
+    .footer-two ion-icon {
+        font-size: 15px;
+    }
+    .footer-two p {
+        font-size: 10px;
+    }
+}
